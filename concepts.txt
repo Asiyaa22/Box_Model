@@ -1,0 +1,20 @@
+---> How elements are sized 
+    -> Extrinsic sizing
+    -> Intrinsic sizing
+--> What is box model & components of box model
+    -> Content Box
+       --> Properties in CSS
+       --> shorthand
+    -> Padding Box
+       --> Properties in CSS
+       --> shorthand
+    -> Border Box
+       --> Properties in CSS
+       --> shorthand
+    -> Margin Box
+       --> Properties in CSS
+       --> shorthand
+--> How these properties controls the size of our box
+--> Debugging box model
+--> How User Agent css controls styles
+--> How we can control box model using Box-sizing property
